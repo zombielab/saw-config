@@ -1,0 +1,23 @@
+{
+  "name": "saw-config",
+  "version": "1.0.0",
+  "author": "Huseyin DOGAN",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zombielab/saw-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zombielab/saw-config/issues"
+  },
+  "homepage": "https://github.com/zombielab/saw-config",
+  "main": "index.js",
+  "dependencies": {
+    "saw-support": "https://github.com/zombielab/saw-support.git"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.11.5",
+    "babel-preset-es2016": "^6.11.3"
+  }
+}
